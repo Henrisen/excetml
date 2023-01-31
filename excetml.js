@@ -26,5 +26,4 @@ for (let i = 0; i < 9999; i++) {
     }
     t.appendChild(tr)
 }
-console.log(t)
 document.body.appendChild(t)
