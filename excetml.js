@@ -1,4 +1,4 @@
-const cel = document.createElement
+const cel = e => document.createElement(e)
 
 t = cel("table")
 let trh = cel("tr")
