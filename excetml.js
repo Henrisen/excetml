@@ -1,6 +1,6 @@
 const cel = document.createElement
 
-let t = cel("table")
+t = cel("table")
 let trh = cel("tr")
 for (let i=0; i<9999; i++) {
     let td = cel("td")
